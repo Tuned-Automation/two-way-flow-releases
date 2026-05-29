@@ -1,9 +1,24 @@
 {
   "latest": {
-    "version": "1.4.5",
-    "notes": "Initial public baseline.",
-    "assets": []
+    "version": "1.5.0",
+    "notes": "First public release. Distribution-ready builds (bring your own API keys), in-app updates with integrity checks, a first-run setup wizard, a redesigned rubric editor with a guided walkthrough, a second built-in rubric, and automatic local backups of your rubrics and settings.",
+    "assets": [
+      {
+        "name": "Two-Way-Flow-1.5.0.dmg",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.0/Two-Way-Flow-1.5.0.dmg",
+        "sha256": "204c3e0a90479480e4c36a9bb9176d9ed7e5abb54b69fcc12adc653d3deda18a",
+        "kind": "dmg",
+        "arch": "arm64"
+      },
+      {
+        "name": "Two-Way-Flow-1.5.0-darwin-arm64.zip",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.0/Two-Way-Flow-1.5.0-darwin-arm64.zip",
+        "sha256": "80a8d279e3ffa88c08e0c5dd5b610049078ec24412a18bafca69d1a713227477",
+        "kind": "zip",
+        "arch": "arm64"
+      }
+    ]
   },
   "minSupported": "1.0.0",
-  "updatedAt": "2026-05-29T00:00:00.000Z"
+  "updatedAt": "2026-05-29T23:26:56.420Z"
 }
