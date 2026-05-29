@@ -32,6 +32,25 @@ Two Way Flow uses your own AI provider keys — nothing is shared or billed cent
 
 The app checks for updates automatically (and you can check any time in **Settings → General → Updates**). When a new version is available you'll see release notes and a **Download update** button. Because the app is unsigned, the update downloads inside the app and then opens Finder — just drag the new version into Applications and reopen.
 
+## Uninstall
+
+Dragging the app to the Trash leaves your data and macOS permission
+entries behind. To remove **everything** (the app, your rubrics +
+settings, caches, and the Microphone / Screen Recording permissions),
+download [`uninstall.sh`](https://github.com/Tuned-Automation/two-way-flow-releases/blob/main/uninstall.sh) and run:
+
+```bash
+bash ~/Downloads/uninstall.sh
+```
+
+It asks for confirmation first. (Any update DMGs you downloaded stay in
+your Downloads folder — delete those yourself if you want.)
+
+Prefer to do it by hand? Drag **Two Way Flow** from Applications to the
+Trash, then delete `~/Library/Application Support/Two Way Flow`, and
+remove the app's rows under **System Settings → Privacy & Security →
+Microphone** and **Screen Recording**.
+
 ## Privacy
 
 Audio is processed by the AI providers whose keys you supply (Google Gemini, Deepgram, etc.). Transcripts and settings stay on your machine. Review each provider's policy for how they handle audio you send them.
