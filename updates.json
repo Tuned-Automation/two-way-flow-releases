@@ -1,0 +1,9 @@
+{
+  "latest": {
+    "version": "1.4.5",
+    "notes": "Initial public baseline.",
+    "assets": []
+  },
+  "minSupported": "1.0.0",
+  "updatedAt": "2026-05-29T00:00:00.000Z"
+}
