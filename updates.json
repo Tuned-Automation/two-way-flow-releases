@@ -1,18 +1,18 @@
 {
   "latest": {
-    "version": "1.5.1",
-    "notes": "Fixes pasting into text fields (Gemini API key and all inputs). Adds a macOS Edit menu so Cmd+V works, plus right-click Cut/Copy/Paste.",
+    "version": "1.5.2",
+    "notes": "One-click updates: installing an update now replaces the app and restarts automatically — no more manual drag to Applications. (Also keeps the 1.5.1 paste fix.)",
     "assets": [
       {
-        "name": "Two-Way-Flow-1.5.1.dmg",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.1/Two-Way-Flow-1.5.1.dmg",
-        "sha256": "c0f5f8ca903a35e735086bf1bde9ec1cc5ddad094d4725181ca5070f4c2b96ae",
+        "name": "Two-Way-Flow-1.5.2.dmg",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.2/Two-Way-Flow-1.5.2.dmg",
+        "sha256": "ec704f20ba02fd6c955f12fb21dc95c104aea3945d16630e117e473f09818d55",
         "kind": "dmg",
         "arch": "arm64"
       },
       {
-        "name": "Two-Way-Flow-1.5.1-darwin-arm64.zip",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.1/Two-Way-Flow-1.5.1-darwin-arm64.zip",
+        "name": "Two-Way-Flow-1.5.2-darwin-arm64.zip",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.2/Two-Way-Flow-1.5.2-darwin-arm64.zip",
         "sha256": "b335824ea827192af7042a1b7a84acc60f2a8b70e4d8418d1e7a89c4f2dab5ea",
         "kind": "zip",
         "arch": "arm64"
@@ -20,5 +20,5 @@
     ]
   },
   "minSupported": "1.0.0",
-  "updatedAt": "2026-06-01T01:07:24.083Z"
+  "updatedAt": "2026-06-01T01:27:49.242Z"
 }
