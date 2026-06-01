@@ -2,11 +2,26 @@
 
 Two Way Flow is a live sales-call coaching overlay for macOS (Apple Silicon). This repo hosts the downloads and the in-app update feed.
 
-## Download
+## Quick install (recommended — one command, no security warning)
+
+Paste this into Terminal:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Tuned-Automation/two-way-flow-releases/main/install.sh | bash
+```
+
+It downloads the latest version and installs it to your Applications
+folder. Because it downloads over the command line, macOS won't show the
+"unverified developer" warning. Then open **Two Way Flow** and follow the
+setup wizard (it asks for your API keys and permissions).
+
+> Apple Silicon (M-series) Macs only.
+
+## Or download the DMG manually
 
 Grab the latest **`.dmg`** from the [Releases page](https://github.com/Tuned-Automation/two-way-flow-releases/releases/latest).
 
-## Install (first time)
+## Install (manual DMG, first time)
 
 1. Open the downloaded `.dmg` and drag **Two Way Flow** into your **Applications** folder.
 2. The app is not signed with an Apple Developer certificate yet, so macOS will warn you the first time. To open it:
