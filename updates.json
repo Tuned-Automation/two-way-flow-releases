@@ -1,24 +1,24 @@
 {
   "latest": {
-    "version": "1.5.0",
-    "notes": "First public release. Distribution-ready builds (bring your own API keys), in-app updates with integrity checks, a first-run setup wizard, a redesigned rubric editor with a guided walkthrough, a second built-in rubric, and automatic local backups of your rubrics and settings.",
+    "version": "1.5.1",
+    "notes": "Fixes pasting into text fields (Gemini API key and all inputs). Adds a macOS Edit menu so Cmd+V works, plus right-click Cut/Copy/Paste.",
     "assets": [
       {
-        "name": "Two-Way-Flow-1.5.0.dmg",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.0/Two-Way-Flow-1.5.0.dmg",
-        "sha256": "204c3e0a90479480e4c36a9bb9176d9ed7e5abb54b69fcc12adc653d3deda18a",
+        "name": "Two-Way-Flow-1.5.1.dmg",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.1/Two-Way-Flow-1.5.1.dmg",
+        "sha256": "c0f5f8ca903a35e735086bf1bde9ec1cc5ddad094d4725181ca5070f4c2b96ae",
         "kind": "dmg",
         "arch": "arm64"
       },
       {
-        "name": "Two-Way-Flow-1.5.0-darwin-arm64.zip",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.0/Two-Way-Flow-1.5.0-darwin-arm64.zip",
-        "sha256": "80a8d279e3ffa88c08e0c5dd5b610049078ec24412a18bafca69d1a713227477",
+        "name": "Two-Way-Flow-1.5.1-darwin-arm64.zip",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.5.1/Two-Way-Flow-1.5.1-darwin-arm64.zip",
+        "sha256": "b335824ea827192af7042a1b7a84acc60f2a8b70e4d8418d1e7a89c4f2dab5ea",
         "kind": "zip",
         "arch": "arm64"
       }
     ]
   },
   "minSupported": "1.0.0",
-  "updatedAt": "2026-05-29T23:26:56.420Z"
+  "updatedAt": "2026-06-01T01:07:24.083Z"
 }
