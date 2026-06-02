@@ -6,19 +6,19 @@
       {
         "name": "Two-Way-Flow-1.6.0.dmg",
         "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.6.0/Two-Way-Flow-1.6.0.dmg",
-        "sha256": "ec704f20ba02fd6c955f12fb21dc95c104aea3945d16630e117e473f09818d55",
+        "sha256": "e5caf2f3346f0ec7379f0f92953ac3f9454dbeb658a13471a9f1d9b181b556e9",
         "kind": "dmg",
         "arch": "arm64"
       },
       {
         "name": "Two-Way-Flow-1.6.0-darwin-arm64.zip",
         "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.6.0/Two-Way-Flow-1.6.0-darwin-arm64.zip",
-        "sha256": "b335824ea827192af7042a1b7a84acc60f2a8b70e4d8418d1e7a89c4f2dab5ea",
+        "sha256": "e8de73d7150e50e7cd8906d6340a334c353b43ce54a2f634f6db55cee0921d5f",
         "kind": "zip",
         "arch": "arm64"
       }
     ]
   },
   "minSupported": "1.0.0",
-  "updatedAt": "2026-06-01T04:10:52.361Z"
+  "updatedAt": "2026-06-02T02:19:40.373Z"
 }
