@@ -1,24 +1,24 @@
 {
   "latest": {
-    "version": "1.6.0",
-    "notes": "New default rubric: One Life Club Two-Way Fit (v4) call scorecard — live coaching across the 6-dimension framework (Opening/Value-Per-Second, Qualification, Discovery, OLC Pitch, Offer & Close, Voice & Tonality). The internal Tuned Automation rubrics are now hidden from the library; unlock them with the owner passphrase in Settings - General.",
+    "version": "1.7.0",
+    "notes": "Live coaching layer: real-time prompts grounded in your best reps' calls, CRM lead context, webhook writeback, and optional zero-click sessions.",
     "assets": [
       {
-        "name": "Two-Way-Flow-1.6.0.dmg",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.6.0/Two-Way-Flow-1.6.0.dmg",
-        "sha256": "e5caf2f3346f0ec7379f0f92953ac3f9454dbeb658a13471a9f1d9b181b556e9",
+        "name": "Two-Way-Flow-1.7.0.dmg",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.7.0/Two-Way-Flow-1.7.0.dmg",
+        "sha256": "cc33a0d96b94b071fdd01282687c11d5ca1ba79e2a07b74a0b83a73fa4a06701",
         "kind": "dmg",
         "arch": "arm64"
       },
       {
-        "name": "Two-Way-Flow-1.6.0-darwin-arm64.zip",
-        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.6.0/Two-Way-Flow-1.6.0-darwin-arm64.zip",
-        "sha256": "e8de73d7150e50e7cd8906d6340a334c353b43ce54a2f634f6db55cee0921d5f",
+        "name": "Two-Way-Flow-1.7.0-darwin-arm64.zip",
+        "url": "https://github.com/Tuned-Automation/two-way-flow-releases/releases/download/v1.7.0/Two-Way-Flow-1.7.0-darwin-arm64.zip",
+        "sha256": "44e0bf1f6ace38bfb892fa08c0d4b9c8a7ff647d508f3070833f17052e1ebd9e",
         "kind": "zip",
         "arch": "arm64"
       }
     ]
   },
   "minSupported": "1.0.0",
-  "updatedAt": "2026-06-02T02:19:40.373Z"
+  "updatedAt": "2026-07-22T02:16:10.203Z"
 }
